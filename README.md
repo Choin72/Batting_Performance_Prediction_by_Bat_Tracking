@@ -1,4 +1,6 @@
-# Batting_Performance_Prediction_by_Bat_Tracking
+# Batting_Performance_Prediction_by_Bat_Tracking (2024)
+
+paper name : Application and Analysis of Nonlinear Regression Models Using Bat Tracking and Hitting Metrics for Baseball Batting Performance Prediction
 
 paper URL : https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003161074
 
